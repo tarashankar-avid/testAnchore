@@ -1,0 +1,1 @@
+FROM ibmjava:sfj-alpine
