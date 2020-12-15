@@ -1,1 +1,0 @@
-FROM alpine:20190925
