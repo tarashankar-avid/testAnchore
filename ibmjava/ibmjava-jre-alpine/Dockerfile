@@ -1,1 +1,0 @@
-FROM ibmjava:jre-alpine
