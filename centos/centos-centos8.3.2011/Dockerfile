@@ -1,1 +1,0 @@
-FROM centos:centos8.3.2011
