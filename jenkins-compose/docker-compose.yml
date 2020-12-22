@@ -1,0 +1,13 @@
+version: '2'
+services:
+  jenkins:
+    image: 'docker.io/bitnami/jenkins:2-debian-10'
+    ports:
+      - '82:8280'
+      - '423:8423'
+      - '50000:50000'
+    volumes:
+      - 'jenkins_data:/bitnami/jenkins'
+volumes:
+  jenkins_data:
+    driver: local
