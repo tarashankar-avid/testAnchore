@@ -1,1 +1,1 @@
-FROM tarashankar/rekoon:latest
+FROM tarashankar/getting-started:latest
